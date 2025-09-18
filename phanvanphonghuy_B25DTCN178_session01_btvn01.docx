@@ -1,0 +1,10 @@
+Bit: là đơn vị nhỏ nhất để lưu trữ dữ liệu trong máy tính, chỉ có thể mang một trong hai giá trị 0 hoặc 1. Nó thường dùng để biểu diễn trạng thái bật/tắt, đúng/sai.
+Byte: là một nhóm gồm 8 bits, là đơn vị cơ bản để biểu diễn ký tự (chữ cái, số, ký hiệu) trong máy tính. Ví dụ chữ cái A được mã hóa bằng 1 byte theo bảng mã ASCII.
+Kilobyte (KB): khoảng một nghìn byte, thường dùng để lưu trữ văn bản hoặc tài liệu nhỏ.
+Megabyte (MB): khoảng một triệu byte, thường dùng cho ảnh kỹ thuật số, nhạc mp3 hoặc ứng dụng nhẹ.
+Gigabyte (GB): khoảng một tỷ byte, thường dùng để lưu trữ phim, phần mềm, hoặc dung lượng RAM.
+Terabyte (TB): khoảng một nghìn tỷ byte, thường dùng cho ổ cứng dung lượng lớn, máy chủ hoặc lưu trữ dữ liệu dài hạn.
+Thứ tự từ nhỏ đến lớn: Bit → Byte → KB → MB → GB → TB.
+Quy ước binary (IEC): dùng lũy thừa của 2. Trong đó 1 KB = 1024 bytes, 1 MB = 1024 KB, 1 GB = 1024 MB. Cách tính này thường được dùng trong hệ điều hành và lập trình.
+Quy ước decimal (SI): dùng lũy thừa của 10. Theo đó 1 KB = 1000 bytes, 1 MB = 1000 KB, 1 GB = 1000 MB. Các nhà sản xuất ổ cứng và thẻ nhớ thường sử dụng cách tính này.
+Sự khác nhau: do hai cách tính khác nhau nên dung lượng hiển thị trên máy tính thường nhỏ hơn so với dung lượng quảng cáo. Ví dụ ổ cứng 500 GB theo cách tính SI thì khi hiển thị trong hệ điều hành chỉ còn khoảng 465 GB theo cách tính binary.
