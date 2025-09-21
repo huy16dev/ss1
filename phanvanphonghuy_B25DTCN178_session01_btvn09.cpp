@@ -9,7 +9,7 @@ int main() {
     printf("\nDa Tim Thay!");
     sleep(2);
     do {
-        printf("\nNhap lua chon hanh trinh:\n");
+        printf("\nVui long chon chuyen bay:\n");
         printf("1. Ha Noi -> HCM\n");
         printf("2. HCM -> Da Nang\n");
         printf("3. Da Nang -> Ha Noi\n");
